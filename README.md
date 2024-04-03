@@ -1,6 +1,6 @@
 # sarcasm-detection
 
-This project uses the dataset "News Headlines Dataset for Sarcasm Detection", originally found on <a src="https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection/code">Kaggle</a>
+This project uses the dataset "News Headlines Dataset for Sarcasm Detection", originally found on [Kaggle](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection/code)
 
 As you can observe on the script file, I used Google Colab, which is why I did not upload the dataset itself to github and instead, downloaded it to a temp folder.
 
